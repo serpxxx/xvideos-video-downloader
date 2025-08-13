@@ -1,4 +1,9 @@
-# xvideos Video Downloader
+---
+title: XVideos Downloader
+
+---
+
+# XVideos Video Downloader
 
 Download videos from xvideos with this easy to use browser extension.
 
