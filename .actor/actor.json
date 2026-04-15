@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "A comprehensive desktop application for downloading XVideos content with support for premium videos, high-quality downloads, and advanced features like batch processing and smart recovery.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "xvideos-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "XVideos Video Downloader",
+  "version": "0.0"
+}
