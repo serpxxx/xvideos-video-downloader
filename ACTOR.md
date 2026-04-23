@@ -1,4 +1,4 @@
-# XVideos Downloader (Browser Extension)
+# XVideos Downloader
 
 > Download supported XVideos videos as MP4 files directly from active watch pages.
 
