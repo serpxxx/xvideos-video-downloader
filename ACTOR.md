@@ -1,6 +1,10 @@
-# XVideos Downloader
+# XVideos Video Downloader | How to Download XVideos Videos
 
 > Download supported XVideos videos as MP4 files directly from active watch pages.
+
+## Get it Here
+
+Get it here: https://serp.ly/xvideos-downloader
 
 ![XVideos Video Downloader](https://raw.githubusercontent.com/serpxxx/xvideos-video-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ XVideos Downloader is a browser extension built for users who want a cleaner way
 - Export MP4 files for easier offline playback
 - Avoid manual source hunting in page scripts
 - Keep the workflow fully in the browser
-
-## Get it Here
-
-Get it here: https://serp.ly/xvideos-downloader
-
 ## Table of Contents
 
 - [Why XVideos Downloader](#why-xvideos-downloader)
